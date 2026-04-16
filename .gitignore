@@ -1,0 +1,15 @@
+# Build
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# Uploads gerados em runtime
+BurgerApi/Uploads/
+
+# Variáveis de ambiente locais
+.env
+*.local
